@@ -1,0 +1,24 @@
+﻿<Window x:Class="TemporaryWPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TemporaryWPF"
+        mc:Ignorable="d"
+    Title="MainWindow">
+    <Window.ContextMenu>
+        <ContextMenu>
+            <MenuItem Header="New Rectangle" Click="MenuItem_Click"/>
+            <MenuItem Header="New Controll" Click="MenuItem_Click_1"/>
+        </ContextMenu>
+    </Window.ContextMenu>
+    <Canvas Name="area" MouseLeftButtonDown="area_MouseLeftButtonDown" MouseLeftButtonUp="area_MouseLeftButtonUp" MouseMove="area_MouseMove" Background="Pink">
+
+        <Image Source="{StaticResource First}"/>
+        <local:ImageControl/>
+
+
+    </Canvas>
+   
+</Window>
+    

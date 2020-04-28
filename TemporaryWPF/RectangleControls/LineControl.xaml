@@ -1,0 +1,23 @@
+﻿<UserControl x:Class="TemporaryWPF.LineControl"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d">
+
+    <Canvas x:Name="lcgrid" MouseLeftButtonDown="Lcgrid_MouseLeftButtonDown" 
+          MouseLeftButtonUp="Lcgrid_MouseLeftButtonUp" MouseMove="Lcgrid_MouseMove">
+        <Canvas.ContextMenu>
+            <ContextMenu>
+                <MenuItem Header="Delete" Click="MenuItem_Click"></MenuItem>
+            </ContextMenu>
+        </Canvas.ContextMenu>
+
+        <Rectangle Fill="SandyBrown" Height="20"
+               Width="20"></Rectangle>
+        <Ellipse Fill="Black"
+                 Canvas.Left="9" Canvas.Top="6"
+                Width="10" Height="10" AllowDrop="True"></Ellipse>
+    </Canvas>
+
+</UserControl>

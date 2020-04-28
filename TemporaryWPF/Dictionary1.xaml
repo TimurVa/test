@@ -1,0 +1,232 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:local="clr-namespace:TemporaryWPF">
+    <DrawingImage x:Key="First">
+        <DrawingImage.Drawing>
+            <DrawingGroup ClipGeometry="M0,0 V118.15 H204 V0 H0 Z">
+                <DrawingGroup Opacity="1" Transform="1,0,0,1,1,1">
+                    <DrawingGroup Transform="1,0,0,1,65.55,0">
+                        <GeometryDrawing Brush="#FFFFFFFF" Geometry="F1 M204,118.15z M0,0z M0,0L69.6,0 69.6,21.5 0,21.5 0,0z">
+                            <GeometryDrawing.Pen>
+                                <Pen Brush="#FF000000" Thickness="1" StartLineCap="Flat" EndLineCap="Flat" LineJoin="Miter" />
+                            </GeometryDrawing.Pen>
+                        </GeometryDrawing>
+                    </DrawingGroup>
+                    <DrawingGroup Transform="1,0,0,1,6.46,19.77">
+                        <GeometryDrawing Brush="#FFFFFFFF" Geometry="F1 M204,118.15z M0,0z M0,0L189.1,0 147.8,59.5 39.1,59.5 0,0z">
+                            <GeometryDrawing.Pen>
+                                <Pen Brush="#FF000000" Thickness="1" StartLineCap="Flat" EndLineCap="Flat" LineJoin="Miter" />
+                            </GeometryDrawing.Pen>
+                        </GeometryDrawing>
+                    </DrawingGroup>
+                    <DrawingGroup Transform="1,0,0,1,11.66,21.79">
+                        <GeometryDrawing Brush="#FFFFFFFF" Geometry="F1 M204,118.15z M0,0z M0,0L40.7,0 40.7,3.7 0,3.7 0,0z">
+                            <GeometryDrawing.Pen>
+                                <Pen Brush="#FF000000" Thickness="1" StartLineCap="Flat" EndLineCap="Flat" LineJoin="Miter" />
+                            </GeometryDrawing.Pen>
+                        </GeometryDrawing>
+                    </DrawingGroup>
+                    <DrawingGroup Transform="1,0,0,1,147.01,21.79">
+                        <GeometryDrawing Brush="#FFFFFFFF" Geometry="F1 M204,118.15z M0,0z M0,0L40.7,0 40.7,3.7 0,3.7 0,0z">
+                            <GeometryDrawing.Pen>
+                                <Pen Brush="#FF000000" Thickness="1" StartLineCap="Flat" EndLineCap="Flat" LineJoin="Miter" />
+                            </GeometryDrawing.Pen>
+                        </GeometryDrawing>
+                    </DrawingGroup>
+                    <DrawingGroup Transform="1,0,0,1,52.31,24.9">
+                        <GeometryDrawing Geometry="F1 M204,118.15z M0,0z M0,0L36.6,53.8">
+                            <GeometryDrawing.Pen>
+                                <Pen Brush="#FF000000" Thickness="1" StartLineCap="Flat" EndLineCap="Flat" LineJoin="Miter" />
+                            </GeometryDrawing.Pen>
+                        </GeometryDrawing>
+                    </DrawingGroup>
+                    <DrawingGroup Transform="1,0,0,1,56.09,22.1">
+                        <GeometryDrawing Geometry="F1 M204,118.15z M0,0z M36.6,55.4L0,0">
+                            <GeometryDrawing.Pen>
+                                <Pen Brush="#FF000000" Thickness="1" StartLineCap="Flat" EndLineCap="Flat" LineJoin="Miter" />
+                            </GeometryDrawing.Pen>
+                        </GeometryDrawing>
+                    </DrawingGroup>
+                    <DrawingGroup Transform="1,0,0,1,108.41,23.66">
+                        <GeometryDrawing Geometry="F1 M204,118.15z M0,0z M0,55.4L36.9,0">
+                            <GeometryDrawing.Pen>
+                                <Pen Brush="#FF000000" Thickness="1" StartLineCap="Flat" EndLineCap="Flat" LineJoin="Miter" />
+                            </GeometryDrawing.Pen>
+                        </GeometryDrawing>
+                    </DrawingGroup>
+                    <DrawingGroup Transform="1,0,0,1,111.24,25.37">
+                        <GeometryDrawing Geometry="F1 M204,118.15z M0,0z M35.8,0L0,54.6">
+                            <GeometryDrawing.Pen>
+                                <Pen Brush="#FF000000" Thickness="1" StartLineCap="Flat" EndLineCap="Flat" LineJoin="Miter" />
+                            </GeometryDrawing.Pen>
+                        </GeometryDrawing>
+                    </DrawingGroup>
+                    <DrawingGroup Transform="1,0,0,1,26.47,36.42">
+                        <GeometryDrawing Geometry="F1 M204,118.15z M0,0z M0,0L13.6,0">
+                            <GeometryDrawing.Pen>
+                                <Pen Brush="#FF000000" Thickness="1" StartLineCap="Flat" EndLineCap="Flat" LineJoin="Miter" />
+                            </GeometryDrawing.Pen>
+                        </GeometryDrawing>
+                    </DrawingGroup>
+                    <DrawingGroup Transform="1,0,0,1,34.03,51.05">
+                        <GeometryDrawing Geometry="F1 M204,118.15z M0,0z M0,0L13.6,0">
+                            <GeometryDrawing.Pen>
+                                <Pen Brush="#FF000000" Thickness="1" StartLineCap="Flat" EndLineCap="Flat" LineJoin="Miter" />
+                            </GeometryDrawing.Pen>
+                        </GeometryDrawing>
+                    </DrawingGroup>
+                    <DrawingGroup Transform="1,0,0,1,45.06,69.1">
+                        <GeometryDrawing Geometry="F1 M204,118.15z M0,0z M0,0L13.9,0">
+                            <GeometryDrawing.Pen>
+                                <Pen Brush="#FF000000" Thickness="1" StartLineCap="Flat" EndLineCap="Flat" LineJoin="Miter" />
+                            </GeometryDrawing.Pen>
+                        </GeometryDrawing>
+                    </DrawingGroup>
+                    <DrawingGroup Transform="1,0,0,1,53.57,57.89">
+                        <GeometryDrawing Geometry="F1 M204,118.15z M0,0z M0,0L13.6,0">
+                            <GeometryDrawing.Pen>
+                                <Pen Brush="#FF000000" Thickness="1" StartLineCap="Flat" EndLineCap="Flat" LineJoin="Miter" />
+                            </GeometryDrawing.Pen>
+                        </GeometryDrawing>
+                    </DrawingGroup>
+                    <DrawingGroup Transform="1,0,0,1,44.43,43.58">
+                        <GeometryDrawing Geometry="F1 M204,118.15z M0,0z M0,0L13.2,0">
+                            <GeometryDrawing.Pen>
+                                <Pen Brush="#FF000000" Thickness="1" StartLineCap="Flat" EndLineCap="Flat" LineJoin="Miter" />
+                            </GeometryDrawing.Pen>
+                        </GeometryDrawing>
+                    </DrawingGroup>
+                    <DrawingGroup Transform="1,0,0,1,63.66,74.08">
+                        <GeometryDrawing Geometry="F1 M204,118.15z M0,0z M0,0L13.6,0">
+                            <GeometryDrawing.Pen>
+                                <Pen Brush="#FF000000" Thickness="1" StartLineCap="Flat" EndLineCap="Flat" LineJoin="Miter" />
+                            </GeometryDrawing.Pen>
+                        </GeometryDrawing>
+                    </DrawingGroup>
+                    <DrawingGroup Transform="1,0,0,1,146.22,43.89">
+                        <GeometryDrawing Geometry="F1 M204,118.15z M0,0z M0,0L14.2,0">
+                            <GeometryDrawing.Pen>
+                                <Pen Brush="#FF000000" Thickness="1" StartLineCap="Flat" EndLineCap="Flat" LineJoin="Miter" />
+                            </GeometryDrawing.Pen>
+                        </GeometryDrawing>
+                    </DrawingGroup>
+                    <DrawingGroup Transform="1,0,0,1,164.18,36.11">
+                        <GeometryDrawing Geometry="F1 M204,118.15z M0,0z M0,0L14.2,0">
+                            <GeometryDrawing.Pen>
+                                <Pen Brush="#FF000000" Thickness="1" StartLineCap="Flat" EndLineCap="Flat" LineJoin="Miter" />
+                            </GeometryDrawing.Pen>
+                        </GeometryDrawing>
+                    </DrawingGroup>
+                    <DrawingGroup Transform="1,0,0,1,155.68,53.23">
+                        <GeometryDrawing Geometry="F1 M204,118.15z M0,0z M0,0L13.6,0">
+                            <GeometryDrawing.Pen>
+                                <Pen Brush="#FF000000" Thickness="1" StartLineCap="Flat" EndLineCap="Flat" LineJoin="Miter" />
+                            </GeometryDrawing.Pen>
+                        </GeometryDrawing>
+                    </DrawingGroup>
+                    <DrawingGroup Transform="1,0,0,1,138.66,58.83">
+                        <GeometryDrawing Geometry="F1 M204,118.15z M0,0z M0,0L13.6,0">
+                            <GeometryDrawing.Pen>
+                                <Pen Brush="#FF000000" Thickness="1" StartLineCap="Flat" EndLineCap="Flat" LineJoin="Miter" />
+                            </GeometryDrawing.Pen>
+                        </GeometryDrawing>
+                    </DrawingGroup>
+                    <DrawingGroup Transform="1,0,0,1,143.54,67.7">
+                        <GeometryDrawing Geometry="F1 M204,118.15z M0,0z M0,0L14,0">
+                            <GeometryDrawing.Pen>
+                                <Pen Brush="#FF000000" Thickness="1" StartLineCap="Flat" EndLineCap="Flat" LineJoin="Miter" />
+                            </GeometryDrawing.Pen>
+                        </GeometryDrawing>
+                    </DrawingGroup>
+                    <DrawingGroup Transform="1,0,0,1,129.52,73.46">
+                        <GeometryDrawing Geometry="F1 M204,118.15z M0,0z M0,0L13.9,0">
+                            <GeometryDrawing.Pen>
+                                <Pen Brush="#FF000000" Thickness="1" StartLineCap="Flat" EndLineCap="Flat" LineJoin="Miter" />
+                            </GeometryDrawing.Pen>
+                        </GeometryDrawing>
+                    </DrawingGroup>
+                    <DrawingGroup Transform="1,0,0,1,0,30.81">
+                        <GeometryDrawing Geometry="F1 M204,118.15z M0,0z M0,0L17.3,7.2">
+                            <GeometryDrawing.Pen>
+                                <Pen Brush="#FF000000" Thickness="1" StartLineCap="Flat" EndLineCap="Flat" LineJoin="Miter" />
+                            </GeometryDrawing.Pen>
+                        </GeometryDrawing>
+                    </DrawingGroup>
+                    <DrawingGroup Transform="1,0,0,1,13.55,51.36">
+                        <GeometryDrawing Geometry="F1 M204,118.15z M0,0z M0,0L17.3,6.5">
+                            <GeometryDrawing.Pen>
+                                <Pen Brush="#FF000000" Thickness="1" StartLineCap="Flat" EndLineCap="Flat" LineJoin="Miter" />
+                            </GeometryDrawing.Pen>
+                        </GeometryDrawing>
+                    </DrawingGroup>
+                    <DrawingGroup Transform="1,0,0,1,24.27,67.23">
+                        <GeometryDrawing Geometry="F1 M204,118.15z M0,0z M0,0L18,6.8">
+                            <GeometryDrawing.Pen>
+                                <Pen Brush="#FF000000" Thickness="1" StartLineCap="Flat" EndLineCap="Flat" LineJoin="Miter" />
+                            </GeometryDrawing.Pen>
+                        </GeometryDrawing>
+                    </DrawingGroup>
+                    <DrawingGroup Transform="1,0,0,1,184.04,29.88">
+                        <GeometryDrawing Geometry="F1 M204,118.15z M0,0z M0,7.8L18,0">
+                            <GeometryDrawing.Pen>
+                                <Pen Brush="#FF000000" Thickness="1" StartLineCap="Flat" EndLineCap="Flat" LineJoin="Miter" />
+                            </GeometryDrawing.Pen>
+                        </GeometryDrawing>
+                    </DrawingGroup>
+                    <DrawingGroup Transform="1,0,0,1,170.8,49.49">
+                        <GeometryDrawing Geometry="F1 M204,118.15z M0,0z M0,7.2L16.7,0">
+                            <GeometryDrawing.Pen>
+                                <Pen Brush="#FF000000" Thickness="1" StartLineCap="Flat" EndLineCap="Flat" LineJoin="Miter" />
+                            </GeometryDrawing.Pen>
+                        </GeometryDrawing>
+                    </DrawingGroup>
+                    <DrawingGroup Transform="1,0,0,1,159.46,65.68">
+                        <GeometryDrawing Geometry="F1 M204,118.15z M0,0z M0,7.8L17.6,0">
+                            <GeometryDrawing.Pen>
+                                <Pen Brush="#FF000000" Thickness="1" StartLineCap="Flat" EndLineCap="Flat" LineJoin="Miter" />
+                            </GeometryDrawing.Pen>
+                        </GeometryDrawing>
+                    </DrawingGroup>
+                    <DrawingGroup Transform="1,0,0,1,32.62,17.43">
+                        <GeometryDrawing Geometry="F1 M204,118.15z M0,0z M0,0L136.8,0">
+                            <GeometryDrawing.Pen>
+                                <Pen Brush="#FF000000" Thickness="3" StartLineCap="Flat" EndLineCap="Flat" LineJoin="Miter" />
+                            </GeometryDrawing.Pen>
+                        </GeometryDrawing>
+                    </DrawingGroup>
+                    <DrawingGroup Transform="1,0,0,1,66.53,5.31">
+                        <GeometryDrawing Brush="#FFFFFFFF" Geometry="F1 M204,118.15z M0,0z M0,4C0,1.8 6.5,0 14.5,0 22.5,0 29,1.8 29,4 29,6.3 22.5,8.1 14.5,8.1 6.5,8.1 0,6.3 0,4z">
+                            <GeometryDrawing.Pen>
+                                <Pen Brush="#FF000000" Thickness="1" StartLineCap="Flat" EndLineCap="Flat" LineJoin="Miter" />
+                            </GeometryDrawing.Pen>
+                        </GeometryDrawing>
+                    </DrawingGroup>
+                    <DrawingGroup Transform="1,0,0,1,106.04,5.31">
+                        <GeometryDrawing Brush="#FFFFFFFF" Geometry="F1 M204,118.15z M0,0z M0,4C0,1.8 6.5,0 14.5,0 22.5,0 29,1.8 29,4 29,6.3 22.5,8.1 14.5,8.1 6.5,8.1 0,6.3 0,4z">
+                            <GeometryDrawing.Pen>
+                                <Pen Brush="#FF000000" Thickness="1" StartLineCap="Flat" EndLineCap="Flat" LineJoin="Miter" />
+                            </GeometryDrawing.Pen>
+                        </GeometryDrawing>
+                    </DrawingGroup>
+                    <DrawingGroup Transform="1,0,0,1,95.8,4.23">
+                        <GeometryDrawing Brush="#FFFFFFFF" Geometry="F1 M204,118.15z M0,0z M0,5.1C0,2.3 2.3,0 5.2,0 8,0 10.4,2.3 10.4,5.1 10.4,8 8,10.3 5.2,10.3 2.3,10.3 0,8 0,5.1z">
+                            <GeometryDrawing.Pen>
+                                <Pen Brush="#FF000000" Thickness="1" StartLineCap="Flat" EndLineCap="Flat" LineJoin="Miter" />
+                            </GeometryDrawing.Pen>
+                        </GeometryDrawing>
+                    </DrawingGroup>
+                    <DrawingGroup Transform="1,0,0,1,33.4,79.68">
+                        <GeometryDrawing Brush="#FFFFFFFF" Geometry="F1 M204,118.15z M0,0z M0,0L132.4,0 121.6,14.3 12.3,14.3 0,0z">
+                            <GeometryDrawing.Pen>
+                                <Pen Brush="#FF000000" Thickness="1" StartLineCap="Flat" EndLineCap="Flat" LineJoin="Miter" />
+                            </GeometryDrawing.Pen>
+                        </GeometryDrawing>
+                    </DrawingGroup>
+                </DrawingGroup>
+            </DrawingGroup>
+        </DrawingImage.Drawing>
+    </DrawingImage>
+
+    <DrawingImage x:Key="2"></DrawingImage>
+
+</ResourceDictionary>
